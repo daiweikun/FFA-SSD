@@ -8,7 +8,7 @@ Link: https://parnec.nuaa.edu.cn/_upload/tpl/02/db/731/template731/pages/xtan/Cl
 
 
 ## Prediction steps
-### a. Use pre-trained weights
+### Use pre-trained weights
 1. Unzip the library after downloading, download it from Baidu.com, put it into model_data, run predict.py, and enter  
 `` python
 img/street.jpg
